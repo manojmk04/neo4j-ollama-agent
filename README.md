@@ -42,12 +42,11 @@ neo4j-ollama-agent/
 ## 🛠 Installation Guide (Windows)
 
 ### 1. Clone or create your project folder
-
 ```bat
 E:
 mkdir neo4j-ollama-agent
 cd neo4j-ollama-agent
-
+```
 ### 2. Create and activate Python venv
 
 python -m venv venv
